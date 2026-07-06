@@ -32,7 +32,7 @@ Use **Settings → Export backup** to move between devices, and **Import backup*
 ## Design system
 
 UI built from a [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) design query —
-warm cream/journal-brown palette with Lora (serif) + Raleway (sans), both embedded as base64 so the
+warm cream, olive, and clay palette with Lora for the serif voice and Manrope for sans-serif UI, embedded as base64 so the
 file stays fully offline and self-contained.
 
 See [`discipline-app-spec.md`](discipline-app-spec.md) for the full build spec.
