@@ -1,0 +1,7 @@
+# Vendored third-party skill used at build time (not part of the app)
+.claude/skills/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
